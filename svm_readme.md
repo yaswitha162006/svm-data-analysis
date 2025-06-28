@@ -56,9 +56,8 @@ This project provides a comprehensive analysis of **Support Vector Machine (SVM)
 
 ## 🚀 Live Demo
 
-🌍 **[View Live Website](https://your-demo-link.com)** *(Replace with actual deployment link)*
+🌍 **[View Live Website]((https://yaswitha162006.github.io/svm-data-analysis/))** 
 
-![Website Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=SVM+Analysis+Website+Preview)
 
 ## 🛠️ Technologies Used
 
